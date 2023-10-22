@@ -7,5 +7,5 @@ Profile page code
 chat screen code
 last seen code
 Attachments (Image, Audio, Video) code
-
+Hiding the last scene
 Hiding the last scene changes
