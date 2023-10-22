@@ -9,3 +9,5 @@ last seen code
 Attachments (Image, Audio, Video) code
 Hiding the last scene
 Hiding the last scene changes
+Adding the audio call feature
+Adding the video call feature
