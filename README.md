@@ -6,7 +6,7 @@ Author: SridharanHv
 Profile page code
 chat screen code
 last seen code
-Attachments (Image, Audio, Video) code
+Attachments (Image, Audio, Video, Documents) code
 Hiding the last scene
 Hiding the last scene changes
 Adding the audio call feature
